@@ -8,7 +8,7 @@ Elabore una Página Web con Angular+UI (a preferencia) para consumir un api de e
 -	Creación de componentes para: header, footer, sidebar left, body
 -	Simular una estructura CRUD con la data obtenida desde el API
 
-#API de consumo:
+#API de consumo (escojer uno nada más ya que el nivel de dificultad de consumo va de 1-4):
 1.	Ricky y Morty: https://rickandmortyapi.com/documentation 
 2.	Pokemón: https://pokeapi.co/docs/v2 
 3.	Nasa: https://api.nasa.gov/ 
