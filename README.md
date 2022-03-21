@@ -7,6 +7,7 @@ Elabore una Página Web con Angular+UI (a preferencia) para consumir un api de e
 -	Página que muestre la data proveniente del API
 -	Creación de componentes para: header, footer, sidebar left, body
 -	Simular una estructura CRUD con la data obtenida desde el API
+-	Realizar un binding de 2 niveles (estructura padre hijo) y uno 3 niveles.
 
 #API de consumo (escojer uno nada más ya que el nivel de dificultad de consumo va de 1-4):
 1.	Ricky y Morty: https://rickandmortyapi.com/documentation 
